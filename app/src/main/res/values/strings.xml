@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RealmAttendance_Exam</string>
+    <string name="sid">Enter Student ID</string>
+    <string name="sname">Enter Student Name</string>
+    <string name="status">Present/Absent</string>
+</resources>
